@@ -22,3 +22,9 @@ Data Augmentation: The script uses Keras’ ImageDataGenerator to perform on-the
 Model Evaluation: The script includes functionality to evaluate the model’s performance on a validation set during training. This helps monitor the model’s learning progress and adjust the learning rate as needed.
 Model Prediction: After training, the model can be used to predict the class of new images. The script includes a function to load and preprocess an image, and then use the trained model to predict its class.
 Accuracy Calculation: The script includes functionality to calculate the accuracy of the model on a test set. This is done by comparing the model’s predictions to the true labels of the test images.
+
+
+
+
+
+NOTE : my drive Link to the collected Data  ---->>  https://drive.google.com/drive/folders/11TleCZaHPaWvm9jn5txlU1GKB7vBr8Wb?usp=sharing
